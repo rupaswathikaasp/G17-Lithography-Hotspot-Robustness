@@ -1,0 +1,6 @@
+benchmark,test,n_seeds,p_value,significant_at_0.05
+iccad1,wilcoxon_clean_vs_robust,3,0.25,False
+iccad2,wilcoxon_clean_vs_robust,3,1.0,False
+iccad3,wilcoxon_clean_vs_robust,3,0.5,False
+iccad4,wilcoxon_clean_vs_robust,3,1.0,False
+iccad5,wilcoxon_clean_vs_robust,3,0.75,False

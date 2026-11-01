@@ -1,0 +1,6 @@
+benchmark,train_hs,train_nhs,val_hs,val_nhs,test_hs,test_nhs
+iccad1,99,340,113,2339,113,2340
+iccad2,174,5285,249,20649,249,20649
+iccad3,909,4643,904,23166,904,23167
+iccad4,95,4452,88,15945,89,15945
+iccad5,26,2716,20,9663,21,9664
